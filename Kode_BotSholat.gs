@@ -423,7 +423,7 @@ function prosesPesan(update) {
 //menentukan webhook yang di set dari server telegram dengan identitas token bot dan situs point webhook untuk bot
 function setWebhook() {
   // Isi dengan web App URL yang di dapat saat deploy
-  var webAppUrl = "WEB APP HASIL DEPLOY";
+  var webAppUrl = " ";
   
   /*var hasil = */tg.setWebHook(webAppUrl);
   //Logger.log(hasil);

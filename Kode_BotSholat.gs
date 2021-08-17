@@ -24,7 +24,7 @@ Situs : blog.banghasan.com, api.banghasan.com, script.google.com, https://t.me/b
 var maksimal_hasil_inline_search_query = 4;
 
 // masukkan token bot mu di sini
-var token = "TOKEN TELEGRAM BOT";
+var token = "1966035312:AAGPetDFfKetlzaqMHeSMxi67UrUwSPPXK0";
 
 //api server Data Surat Al-Quran 
 var api_fatimah = "https://api.banghasan.com/sholat/format/json";
